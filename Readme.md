@@ -61,6 +61,7 @@ O jogo suporta **2 até 4 jogadores**.
 * Execução de arquivos com `subprocess`
 
 **Feito por M2G** 
+
 Gabriela          
 Henrique          
 Lucas Alberto     
