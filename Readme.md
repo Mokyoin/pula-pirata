@@ -60,8 +60,6 @@ O jogo suporta **2 até 4 jogadores**.
 * Modularização de código
 * Execução de arquivos com `subprocess`
 
-
-< ----------------- >
 **Feito por M2G** 
 Gabriela          
 Henrique          
